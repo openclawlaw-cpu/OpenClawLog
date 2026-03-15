@@ -1,0 +1,37 @@
+{
+  "dac4a3d808749068395d3ef1902aac67a49d2c6c4461dd8a1332a2d5635b74e4": {
+    "deviceId": "dac4a3d808749068395d3ef1902aac67a49d2c6c4461dd8a1332a2d5635b74e4",
+    "publicKey": "AkJTTRB4nFMBDyOiqBH3A5DNXMCJ0Yu9q334sJghZeE",
+    "platform": "Win32",
+    "clientId": "openclaw-control-ui",
+    "clientMode": "webchat",
+    "role": "operator",
+    "roles": [
+      "operator"
+    ],
+    "scopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "approvedScopes": [
+      "operator.admin",
+      "operator.approvals",
+      "operator.pairing"
+    ],
+    "tokens": {
+      "operator": {
+        "token": "TDWRcGh2GeWZuCTc_OXySyGIvQpxXjp5qIuS9mIZEjE",
+        "role": "operator",
+        "scopes": [
+          "operator.admin",
+          "operator.approvals",
+          "operator.pairing"
+        ],
+        "createdAtMs": 1773459328352
+      }
+    },
+    "createdAtMs": 1773459328352,
+    "approvedAtMs": 1773459328352
+  }
+}

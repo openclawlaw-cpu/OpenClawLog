@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "profiles": {
+    "qwen-portal:default": {
+      "type": "oauth",
+      "provider": "qwen-portal",
+      "access": "Dg0EYA8CulB8LNHpEgNFaGg7s-zmSEhMYzrF64B8Dm-DPQA8mzDvR1HQ4CsGkE_9l3LWluejT-d5zIY0xPUpcw",
+      "refresh": "CDlG12yOAgrzcjtQaIzDyNbnrQ7SZxsJL_ttNI53VwnKk6g7rrRile0xiJVhGiFpKFOT8Kuo4fPS8Cq6WbtQ9Q",
+      "expires": 1773480812922
+    },
+    "ollama:default": {
+      "type": "api_key",
+      "provider": "ollama",
+      "key": "ollama-local"
+    }
+  },
+  "usageStats": {
+    "qwen-portal:default": {
+      "errorCount": 0,
+      "lastUsed": 1773459843435
+    }
+  }
+}

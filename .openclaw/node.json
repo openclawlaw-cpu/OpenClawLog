@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "nodeId": "9312fa73-d1df-4674-b180-f589e708cf9c",
+  "displayName": "OpenClaw",
+  "gateway": {
+    "host": "ai.todesk.com",
+    "port": 443,
+    "tls": true
+  }
+}
